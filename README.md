@@ -71,3 +71,7 @@ Saya adalah seorang insinyur yang berspesialisasi dalam menjembatani perangkat k
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padlibzz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
+
+<div align="center">
+  <img src="https://github.com/Padlibzz/Padlibzz/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
