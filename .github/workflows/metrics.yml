@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Update otomatis setiap jam 06:00 pagi WIB
-  schedule: [{cron: "0 23 * * *"}]
-  # Tombol manual "Run workflow"
+  schedule: [{cron: "0 23 * * *"}] # Update otomatis
   workflow_dispatch:
-  # Update saat ada push ke repo
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -16,29 +13,21 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # =========================================================
-          # 1. TAMPILAN LEBAR (WAJIB ADA INI AGAR 2 KOLOM)
-          # =========================================================
+          # Tampilan Lebar (2 Kolom)
           config_display: large
           user: Padlibzz
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
 
-          # =========================================================
-          # 2. SOLUSI ERROR "UNEXPECTED ERROR"
-          # =========================================================
-          # Kita matikan 'charts' sementara agar error hilang.
-          # Aktifkan lagi nanti (ubah ke 'yes') jika sudah rajin coding.
+          # Solusi Error "Unexpected Error" (Matikan chart sementara)
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: no      # <--- Ubah ke 'no' agar tidak error merah
+          plugin_habits_charts: no  # Ubah ke 'yes' nanti jika sudah rajin commit
           plugin_habits_trim: yes
 
-          # =========================================================
-          # 3. PENGATURAN LAIN (BAHASA & KALENDER)
-          # =========================================================
+          # Bahasa
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_limit: 8
@@ -46,9 +35,11 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
 
+          # Kalender
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          # Topik/Icon
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_mode: icons
