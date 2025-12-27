@@ -1,0 +1,48 @@
+name: Metrics
+on:
+  # Update setiap jam 00:00
+  schedule: [{cron: "0 0 * * *"}]
+  # Bisa dijalankan manual
+  workflow_dispatch:
+  # Update saat ada push ke branch master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token yang tadi kamu buat
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Opsi Dasar
+          user: Padlibzz
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          
+          # Tampilan Kalender 3D (Isometric) - Seperti di gambar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Bahasa Pemrograman
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: lines, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+
+          # Kebiasaan Coding (Grafik Jam & Hari)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Statistik Topik/Tech
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
