@@ -1,10 +1,10 @@
 name: Metrics
 on:
-  # Jadwal update otomatis jam 00:00 WIB
-  schedule: [{cron: "0 17 * * *"}]
-  # Trigger manual
+  # Update otomatis setiap jam 06:00 pagi WIB
+  schedule: [{cron: "0 23 * * *"}]
+  # Tombol manual "Run workflow"
   workflow_dispatch:
-  # Trigger saat ada push
+  # Update saat ada push ke repo
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -16,36 +16,40 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # --- BAGIAN 1: PENGATURAN TAMPILAN LEBAR ---
+          # =========================================================
+          # 1. TAMPILAN LEBAR (WAJIB ADA INI AGAR 2 KOLOM)
+          # =========================================================
+          config_display: large
           user: Padlibzz
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
-          config_display: large    # <--- INI KUNCI AGAR TAMPILAN MENJADI 2 KOLOM (LEBAR)
 
-          # --- BAGIAN 2: PERBAIKAN HABITS (Unexpected Error Fix) ---
+          # =========================================================
+          # 2. SOLUSI ERROR "UNEXPECTED ERROR"
+          # =========================================================
+          # Kita matikan 'charts' sementara agar error hilang.
+          # Aktifkan lagi nanti (ubah ke 'yes') jika sudah rajin coding.
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30        # Saya naikkan ke 30 hari agar lebih banyak data terbaca
+          plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes       # <--- PENTING: Mencegah error jika data grafik kosong
+          plugin_habits_charts: no      # <--- Ubah ke 'no' agar tidak error merah
+          plugin_habits_trim: yes
 
-          # --- BAGIAN 3: BAHASA PEMROGRAMAN (Detail) ---
+          # =========================================================
+          # 3. PENGATURAN LAIN (BAHASA & KALENDER)
+          # =========================================================
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
-          plugin_languages_details: lines, percentage
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_limit: 8
+          plugin_languages_details: lines, percentage
 
-          # --- BAGIAN 4: KALENDER 3D ---
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # --- BAGIAN 5: IKON/TOPICS (Agar muncul logo di bawah) ---
           plugin_topics: yes
           plugin_topics_sort: stars
-          plugin_topics_mode: icons     # Menampilkan topic sebagai ikon (seperti contoh target)
+          plugin_topics_mode: icons
           plugin_topics_limit: 15
