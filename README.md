@@ -53,14 +53,21 @@ Saya adalah seorang insinyur yang berspesialisasi dalam menjembatani perangkat k
 ---
 
 <div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Padlibzz&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Padlibzz&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 
-| **GitHub Stats** | **Top Languages** |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Padlibzz&theme=tokyonight&hide_border=true&show_icons=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padlibzz&theme=tokyonight&layout=compact&hide_border=true" width="400" /> |
+  <br/>
 
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Padlibzz&theme=tokyonight&hide_border=true" /><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Padlibzz&theme=tokyonight&no-frame=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padlibzz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
