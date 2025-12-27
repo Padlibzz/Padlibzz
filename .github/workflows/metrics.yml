@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Update setiap jam 00:00
-  schedule: [{cron: "0 0 * * *"}]
+  # Update setiap jam 00:00 WIB
+  schedule: [{cron: "0 17 * * *"}]
   # Bisa dijalankan manual
   workflow_dispatch:
   # Update saat ada push ke branch master/main
@@ -14,35 +14,38 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token yang tadi kamu buat
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Opsi Dasar
+          # --- OPSI TAMPILAN (Agar lebar seperti contoh) ---
           user: Padlibzz
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Asia/Jakarta
           
-          # Tampilan Kalender 3D (Isometric) - Seperti di gambar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # --- PERBAIKAN HABITS (Mengatasi Unexpected Error) ---
+          plugin_habits: yes
+          plugin_habits_from: 200       # Mengambil 200 event terakhir
+          plugin_habits_days: 14        # Dalam 14 hari terakhir
+          plugin_habits_facts: yes      # Tampilkan fakta (jam coding)
+          plugin_habits_charts: yes     # Tampilkan grafik
+          plugin_habits_trim: yes       # Trim error jika data kosong
 
-          # Bahasa Pemrograman
+          # --- BAHASA PEMROGRAMAN ---
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_limit: 8
 
-          # Kebiasaan Coding (Grafik Jam & Hari)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # --- KALENDER 3D (Seperti di gambar contoh) ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-          # Statistik Topik/Tech
+          # --- IKON TEKNOLOGI (Agar ada baris icon di bawah) ---
           plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
+          plugin_topics_sort: stars    # Urutkan berdasarkan bintang repo
+          plugin_topics_mode: icons    # Tampilkan sebagai ikon
+          plugin_topics_limit: 15      # Jumlah ikon
