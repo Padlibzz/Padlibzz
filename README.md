@@ -1,47 +1,62 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW02eG55d2Z5eG55d2Z5eG55d2Z5eG55d2Z5eG55d2Z5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px;" alt="Tech GIF Header"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW02eG55d2Z5eG55d2Z5eG55d2Z5eG55d2Z5eG55d2Z5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" height="280" style="object-fit: cover; border-radius: 20px; box-shadow: 0px 0px 20px rgba(122, 162, 247, 0.4);" alt="Cyberpunk Header"/>
   
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padli;%3E+Network+Engineer;%3E+C%2B%2B+Developer;%3E+Linux+Enthusiast" alt="Typing SVG" />
-  </h2>
+  <br/>
+
+  <a href="https://github.com/Padlibzz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padli+👋;Network+Engineer+%26+SysAdmin;C%2B%2B+Developer+%2F+Qt+GUI;Linux+System+Builder" alt="Typing SVG" />
+  </a>
 </div>
+
+<br/>
+
+<div align="center">
+<table border="0" width="95%">
+<tr valign="top">
+<td width="55%">
+
+### 📡 System Status: <span style="color:#9ece6a">Online</span>
+
+> `whoami`
+
+Saya seorang insinyur yang fokus menjembatani **Hardware** dan **Software**. Spesialisasi saya membangun infrastruktur jaringan yang tangguh dan memeras performa maksimal melalui kode C++.
 
 ---
 
-<div align="center">
-<table border="0">
-<tr valign="top">
-<td width="60%">
+- 🛰️ **Network Ops:** <br/>Routing/Switching (MikroTik), Debian Server Hardening, Manajemen DNS & DHCP.
+  
+- ⚡ **Low-Level Engineering:** <br/>Pengembangan *native apps* (Qt, SFML) dan *system utilities* di Linux.
 
-### 🛠️ System & Network Builder
-
-Saya adalah seorang insinyur yang berspesialisasi dalam menjembatani perangkat keras dan perangkat lunak. Fokus utama saya adalah membangun infrastruktur jaringan yang handal dan mengembangkan aplikasi C++ yang efisien.
-
-- 🌐 **Networking:** Merancang topologi lab, konfigurasi MikroTik (Routing/Switching), dan manajemen server berbasis Debian.
-- 💻 **Low-Level Dev:** Berpengalaman dengan C/C++ untuk CLI tools dan aplikasi grafis menggunakan Qt dan SFML.
-- 🐧 **Linux DNA:** Menggunakan Linux sebagai *daily driver* untuk semua aktivitas pengembangan dan administrasi sistem.
-- 🎨 **Design:** Memiliki sisi kreatif untuk desain grafis menggunakan Adobe Illustrator & Photoshop.
+- 🐧 **Environment:** <br/>Linux adalah rumah saya. Dari *kernel customization* hingga *bash scripting*.
 
 </td>
-<td width="40%" align="center">
 
-### 💻 The Arsenal
+<td width="45%" align="center">
 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/MikroTik-293239?style=flat-square" />
+### 🧰 The Arsenal
+
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
 <br/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square" />
-<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+
 <br/>
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge" />
+
+<br/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
 
+<br/>
+<br/>
 <p align="center">
   <a href="https://github.com/Padlibzz">
-    <img src="https://komarev.com/ghpvc/?username=Padlibzz&label=Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Padlibzz&label=VISITOR%20COUNT&color=7aa2f7&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
@@ -53,25 +68,23 @@ Saya adalah seorang insinyur yang berspesialisasi dalam menjembatani perangkat k
 ---
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
+  <h3>📊 Activity & Intelligence</h3>
   
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Padlibzz&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Padlibzz&theme=tokyonight&hide_border=true" width="400" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
-
   <br/>
+  
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="95%" style="border-radius: 10px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padlibzz&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <br/><br/>
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Padlibzz&theme=tokyonight&hide_border=true&background=161B22" alt="Streak Stats" />
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://github.com/Padlibzz/Padlibzz/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <br/>
+  <i>"No packet lost, no memory leaked."</i>
 </div>
