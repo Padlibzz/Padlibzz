@@ -32,14 +32,10 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padlibzz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=padlibzz&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="Languages" />
-</div>
+## My favorite tools and technologies ⚙️
 
-<br>
-
-<div align="center">
+> Tools and technologies that I have worked with and am interested in
+  
   <table>
     <tr>
       <td align="center" width="90">
