@@ -21,6 +21,8 @@
 <tr valign="top">
 <td width="55%">
 
+### 📡 System Status: <span style="color:#9ece6a">Online</span>
+
 > `user@padli:~$ whoami`
 
 Saya seorang insinyur yang fokus menjembatani **Hardware** dan **Software**. Spesialisasi saya adalah membangun infrastruktur jaringan yang tangguh dan memeras performa maksimal melalui kode C++.
