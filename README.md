@@ -1,10 +1,22 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp" width="300" style="display: inline-block; vertical-align: middle; margin-right: 20px;"/>
-  
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp"
+    width="300"
+  />
+
   <a href="https://github.com/Padlibzz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=340&lines=Hi%2C+I'm+Padli;C%2B%2B+%26+Java+Developer" width="340" style="display: inline-block; vertical-align: middle;" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=340&lines=Hi%2C+I'm+Padli;C%2B%2B+%26+Java+Developer"
+      width="340"
+    />
   </a>
 </div>
+
 
 <div align="center">
   <a href="https://www.instagram.com/padlibzz/">
