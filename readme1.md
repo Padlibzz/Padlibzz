@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td width="50%" align="center">
       <img
