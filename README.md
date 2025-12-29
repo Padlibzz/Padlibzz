@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/1c/10/7d/1c107d0d506628015387630345711798.gif" width="100%" height="280" style="object-fit: cover; object-position: center 20%; border-radius: 15px; box-shadow: 0px 4px 20px rgba(123, 104, 238, 0.5);" alt="Evangelion Header"/>
+  <img src="https://media.giphy.com/media/OpYV9XBq9cop2/giphy.gif" width="100%" height="280" style="object-fit: cover; object-position: center; border-radius: 15px; box-shadow: 0px 4px 20px rgba(123, 104, 238, 0.6);" alt="Evangelion Launch Header"/>
   
   <br/>
 
   <a href="https://github.com/Padlibzz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padli+👋;Network+Engineer+%26+SysAdmin;C%2B%2B+Developer+(Qt+GUI);Linux+System+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Padli+👋;Network+Engineer+%26+SysAdmin;C%2B%2B+Developer+(Qt+GUI);Linux+System+Architect" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -21,25 +21,25 @@
 <tr valign="top">
 <td width="55%">
 
-<h3>>_ SYSTEM_SYNC: <span style="color:#9ece6a">400%</span></h3>
+<h3>>_ NERV_TERMINAL: <span style="color:#9ece6a">ONLINE</span></h3>
 
-<pre align="left" style="background-color: #0d1117; border: 1px solid #7aa2f7; color: #a9b1d6; border-radius: 8px; padding: 15px; font-family: 'Courier New', Courier, monospace; font-size: 13px; line-height: 1.5; box-shadow: 0 0 15px rgba(122, 162, 247, 0.2);">
-<span style="color:#bb9af7">root@padli-eva01</span>:<span style="color:#7aa2f7">~</span># ./analyze_pilot.sh
+<pre align="left" style="background-color: #0d1117; border: 1px solid #7aa2f7; color: #a9b1d6; border-radius: 8px; padding: 15px; font-family: 'Courier New', Courier, monospace; font-size: 13px; line-height: 1.5; box-shadow: 0 0 15px rgba(122, 162, 247, 0.15);">
+<span style="color:#bb9af7">pilot@eva-01</span>:<span style="color:#7aa2f7">~</span># ./sync_system.sh
 
-<span style="color:#565f89"># --- PILOT DATA ---</span>
+<span style="color:#565f89"># --- PILOT IDENTIFICATION ---</span>
 <span style="color:#e0af68">Name</span>      : Padli Badzara
-<span style="color:#e0af68">Role</span>      : Network Eng. / SysAdmin
-<span style="color:#e0af68">Mission</span>   : Bridge(Hardware, Software);
+<span style="color:#e0af68">Class</span>     : Net_Engineer & SysAdmin
+<span style="color:#e0af68">Objective</span> : Hardware <-> Software Link
 
-<span style="color:#565f89"># --- SYNCHRONIZATION RATES ---</span>
-<span style="color:#9ece6a">✔</span> <b>Network Engineering</b>
+<span style="color:#565f89"># --- SYSTEM CAPABILITIES ---</span>
+<span style="color:#9ece6a">✔</span> <b>Network Operations</b>
   └─ MikroTik, Routing, DNS, DHCP
-<span style="color:#9ece6a">✔</span> <b>Software Development</b>
-  └─ C++ (Qt GUI, SFML), Low-level Utils
-<span style="color:#9ece6a">✔</span> <b>System Mastery</b>
-  └─ Debian, Bash, Vim, Optimization
+<span style="color:#9ece6a">✔</span> <b>Software Engineering</b>
+  └─ C++ (Qt/SFML), Low-level Utils
+<span style="color:#9ece6a">✔</span> <b>Linux Architecture</b>
+  └─ Debian, Bash, Kernel Ops
 
-<span style="color:#bb9af7">root@padli-eva01</span>:<span style="color:#7aa2f7">~</span># <span style="animation: blink 1s infinite; color: #9ece6a;">█</span>
+<span style="color:#bb9af7">pilot@eva-01</span>:<span style="color:#7aa2f7">~</span># <span style="animation: blink 1s infinite; color: #9ece6a;">█</span>
 </pre>
 
 </td>
@@ -72,7 +72,7 @@
 <br/><br/>
 <p align="center">
   <a href="https://github.com/Padlibzz">
-    <img src="https://komarev.com/ghpvc/?username=Padlibzz&label=ACCESS_COUNT&color=7aa2f7&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Padlibzz&label=SYNC_RATE&color=7aa2f7&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@
 ---
 
 <div align="center">
-  <h3>📊 Intelligence & Activity Logs</h3>
+  <h3>📊 Intelligence Logs</h3>
   
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" style="border-radius: 10px;" />
 
@@ -103,6 +103,7 @@
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Padlibzz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <br/>
   <br/>
   <i>"God's in his heaven. All's right with the world."</i>
 </div>
