@@ -1,19 +1,21 @@
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif"
-    alt="👋 Hi there!"
-    width="600"
-  />
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif"
+        width="400"
+      />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Padlibzz">
+        <img
+          src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli+👋;Network+Engineer+%26+SysAdmin;C%2B%2B+Developer;Linux+System+Builder"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <br><br>
-
-  <a href="https://github.com/Padlibzz">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Padli+👋;Network+Engineer+%26+SysAdmin;C%2B%2B+Developer+%2F+Qt+GUI;Linux+System+Builder"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
 
 
 <br>
