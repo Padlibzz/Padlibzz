@@ -79,14 +79,5 @@ Saya seorang insinyur yang fokus menjembatani **Hardware** dan **Software**. Spe
   
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" style="border-radius: 10px;" />
 
-  <br/><br/>
-  
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Padlibzz&theme=tokyonight&hide_border=true&background=161B22" alt="Streak Stats" />
-      </td>
-    </tr>
-  </table>
-
+  <br/><br/>  
 </div>
