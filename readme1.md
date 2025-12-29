@@ -6,26 +6,29 @@
 
 <br>
 
-<div align="center">
-  <a href="https://youtube.com/@USERNAME_ANDA">
-    <img src="https://img.shields.io/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="Youtube" />
-  </a>
-  <a href="https://instagram.com/USERNAME_ANDA">
-    <img src="https://img.shields.io/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://twitch.tv/USERNAME_ANDA">
-    <img src="https://img.shields.io/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/INVITE_CODE">
-    <img src="https://img.shields.io/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:EMAIL_ANDA@gmail.com">
-    <img src="https://img.shields.io/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/USERNAME_ANDA">
-    <img src="https://img.shields.io/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-</div>
+<a href="https://www.instagram.com/padlibzz/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@padlibzz">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/padlibzz/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/padlibzz/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/padlibzz/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/padlibzz">
+<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
 
 <hr>
 
