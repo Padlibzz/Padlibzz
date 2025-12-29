@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2b/56/63/2b5663675dfde9a51804b4f535d46e29.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 20px rgba(122, 162, 247, 0.6);" alt="Header Animation" />
+  <img src="https://i.pinimg.com/originals/2b/56/63/2b5663675dfde9a51804b4f535d46e29.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 20px rgba(122, 162, 247, 0.6);" alt="Cyberpunk Header" />
   
   <br/><br/>
 
@@ -17,14 +17,13 @@
 <br/>
 
 <div align="center">
-<table border="0" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      
-      I'm a <b>Network Engineer</b> bridging the gap between Hardware and Software. My world revolves around Linux kernels, routing protocols, and C++ memory management.
-
-      <br/><br/>
+      <p>
+        I'm a <b>Network Engineer</b> bridging the gap between Hardware and Software. My world revolves around Linux kernels, routing protocols, and C++ memory management.
+      </p>
       
       <ul>
         <li>🔭 I’m currently working on <b>Qt GUI & Low-level Systems</b></li>
@@ -35,16 +34,17 @@
 
       <br/>
       
-      <pre style="font-family: 'Courier New'; font-size: 12px; background: #0d1117; color: #a9b1d6; padding: 10px; border-radius: 6px; border: 1px solid #30363d;">
-user@padli:~$ cat skills.txt
-> Network: MikroTik, DNS, DHCP
-> Code: C++, Bash, PHP
-> System: Linux, Docker, Nginx
-user@padli:~$ _</pre>
+      <div style="background: #0d1117; color: #a9b1d6; padding: 15px; border-radius: 8px; border: 1px solid #30363d; text-align: left; font-family: Consolas, monospace; font-size: 12px;">
+        <span style="color: #7aa2f7;">user@padli:~$</span> cat skills.txt<br/>
+        > Network: MikroTik, DNS, DHCP<br/>
+        > Code: C++, Bash, PHP<br/>
+        > System: Linux, Docker, Nginx<br/>
+        <span style="color: #7aa2f7;">user@padli:~$</span> <span style="animation: blink 1s infinite;">_</span>
+      </div>
     </td>
 
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif" />
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -55,38 +55,4 @@ user@padli:~$ _</pre>
 <div align="center">
   <h3>🚀 Languages & Tools</h3>
   
-  <img src="https://skillicons.dev/icons?i=cpp,c,bash,php,linux,debian,ubuntu,vim&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=qt,nginx,mysql,git,github,vscode,arduino&theme=dark" />
-  
-  <br/><br/>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h3>📊 Activity & Intelligence</h3>
-  
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" style="border-radius: 10px;" />
-
-  <br/><br/>
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Padlibzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Padlibzz&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padlibzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Let's connect and build something secure.</i>
-</div>
+  <img src="
