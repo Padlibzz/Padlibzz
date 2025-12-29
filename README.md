@@ -1,15 +1,10 @@
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp" width="400"/>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Padlibzz">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli;C%2B%2B+%26+Java+Developer" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp" width="400" style="vertical-align:middle; margin-right: 10px;"/>
+  
+  <a href="https://github.com/Padlibzz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli;C%2B%2B+%26+Java+Developer" style="vertical-align:middle;" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/padlibzz/">
@@ -50,7 +45,7 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,java,php,linux,debian,git,github,nginx,mysql,vscode&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,java,php,linux,debian,git,github,apache,nginx,mysql,vscode,docker&perline=7&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-CD201F?style=for-the-badge&logo=mikrotik&logoColor=white" height="30"/>
 </div>
