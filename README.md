@@ -62,6 +62,9 @@
   <br><br>
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-CD201F?style=for-the-badge&logo=mikrotik&logoColor=white" height="30"/>
 </div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=padlibzz.padlibzz&"  />
+</div>
 
 <br/>
 
