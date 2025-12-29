@@ -45,5 +45,3 @@ Objective   : Bridge hardware-level systems with clean software
   └─ Debian, Bash, Vim, System Optimization
 
 root@padli-mainframe:~# _
-
-<div align="center"> <h3>📊 Intelligence & Activity Logs</h3> <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" style="border-radius: 10px;" /> <br/><br/> <table border="0"> <tr> <td> <img src="https://nirzak-streak-stats.vercel.app/?user=Padlibzz&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" /> </td> </tr> </table> </div>
