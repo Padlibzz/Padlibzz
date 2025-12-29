@@ -21,8 +21,6 @@
 <tr valign="top">
 <td width="55%">
 
-### 📡 System Status: <span style="color:#9ece6a">Online</span>
-
 > `user@padli:~$ whoami`
 
 Saya seorang insinyur yang fokus menjembatani **Hardware** dan **Software**. Spesialisasi saya adalah membangun infrastruktur jaringan yang tangguh dan memeras performa maksimal melalui kode C++.
@@ -76,7 +74,6 @@ Saya seorang insinyur yang fokus menjembatani **Hardware** dan **Software**. Spe
 ---
 
 <div align="center">
-  <h3>📊 Activity & Intelligence</h3>
   
   <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" style="border-radius: 10px;" />
 
