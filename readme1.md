@@ -20,7 +20,8 @@
 
 <br>
 
-<a href="https://www.instagram.com/padlibzz/">
+<div align="center">
+  <a href="https://www.instagram.com/padlibzz/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.youtube.com/@padlibzz">
@@ -38,6 +39,7 @@
 <a href="https://gitlab.com/padlibzz">
 <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
+</div>
 
 <hr>
 
