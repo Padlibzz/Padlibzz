@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/OpYV9XBq9cop2/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 20px rgba(122, 162, 247, 0.6);" />
+  <img src="https://i.pinimg.com/originals/2b/56/63/2b5663675dfde9a51804b4f535d46e29.gif" width="100%" height="250" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 20px rgba(122, 162, 247, 0.6);" alt="Header Animation" />
   
   <br/><br/>
 
@@ -21,8 +21,8 @@
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
-      <br/>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW02eG55d2Z5eG55d2Z5eG55d2Z5eG55d2Z5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="0" height="0" /> I'm a <b>Network Engineer</b> bridging the gap between Hardware and Software. My world revolves around Linux kernels, routing protocols, and C++ memory management.
+      
+      I'm a <b>Network Engineer</b> bridging the gap between Hardware and Software. My world revolves around Linux kernels, routing protocols, and C++ memory management.
 
       <br/><br/>
       
@@ -44,8 +44,7 @@ user@padli:~$ _</pre>
     </td>
 
     <td width="40%" align="center" valign="middle">
-      <br/>
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif" />
     </td>
   </tr>
 </table>
@@ -58,7 +57,6 @@ user@padli:~$ _</pre>
   
   <img src="https://skillicons.dev/icons?i=cpp,c,bash,php,linux,debian,ubuntu,vim&theme=dark" />
   <br/><br/>
-  
   <img src="https://skillicons.dev/icons?i=qt,nginx,mysql,git,github,vscode,arduino&theme=dark" />
   
   <br/><br/>
