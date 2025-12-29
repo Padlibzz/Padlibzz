@@ -44,6 +44,12 @@
 
 <hr>
 
+<p></p>
+<p align="justify">
+Welcome to my GitHub page. I’m Padli, a Network Engineer and System Administrator with a strong interest in Linux systems, networking, and C++ development. I enjoy learning new technologies, building reliable network and server infrastructures, and developing desktop applications using C++ and Qt. I have hands-on experience with MikroTik, DNS and web servers, and Linux-based environments, and I continuously improve my skills through real-world projects and experimentation.
+
+</p>
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
