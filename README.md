@@ -90,14 +90,3 @@ Saya seorang insinyur yang fokus menjembatani **Hardware** dan **Software**. Spe
   </table>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Padlibzz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-  <br/>
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br/>
-  <i>"No packet lost, no memory leaked."</i>
-</div>
