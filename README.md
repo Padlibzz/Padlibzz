@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eW02eG55d2Z5eG55d2Z5eG55d2Z5eG55d2Z5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" height="280" style="object-fit: cover; border-radius: 15px; box-shadow: 0px 4px 20px rgba(122, 162, 247, 0.4);" alt="Cyberpunk Header"/>
+  <img src="https://i.pinimg.com/originals/1c/10/7d/1c107d0d506628015387630345711798.gif" width="100%" height="280" style="object-fit: cover; object-position: center 20%; border-radius: 15px; box-shadow: 0px 4px 20px rgba(123, 104, 238, 0.5);" alt="Evangelion Header"/>
   
   <br/>
 
