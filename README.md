@@ -1,12 +1,37 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Padli%20Badzara&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20%7C%20C%2B%2B%20%26%20Linux%20Enthusiast&descSize=20&descAlignY=60&fontColor=ffffff" />
-</div>
+ <table align="center" border="0">
 
-<div align="center">
-  <a href="https://github.com/Padlibzz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=435&lines=Building+Reliable+Networks;Developing+with+C%2B%2B+%26+Qt;Exploring+Linux+Systems;Automating+Infrastructure" alt="Typing SVG" />
-  </a>
-</div>
+  <tr>
+    <td width="50%" align="center">
+
+      <img
+
+        src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp"
+
+        width="400"
+
+      />
+
+    </td>
+
+    <td width="50%" align="center">
+
+      <a href="https://github.com/Padlibzz">
+
+        <img
+
+          src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli;C%2B%2B+%26+Java+Developer"
+
+        />
+
+      </a>
+
+    </td>
+
+  </tr>
+
+</table>
+
+
 
 <div align="center">
   <a href="https://www.instagram.com/padlibzz/">
