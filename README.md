@@ -50,7 +50,7 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,java,php,linux,debian,git,github,apache,nginx,mysql,vscode,docker&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,qt,java,php,linux,debian,git,github,nginx,mysql,vscode&perline=7&theme=dark" />
   <br><br>
   <img src="https://img.shields.io/badge/MikroTik-RouterOS-CD201F?style=for-the-badge&logo=mikrotik&logoColor=white" height="30"/>
 </div>
