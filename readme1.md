@@ -9,7 +9,7 @@
     <td width="50%" align="center">
       <a href="https://github.com/Padlibzz">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli;Network+Engineer+%26+SysAdmin;C%2B%2B+Developer;Linux+System+Builder"
+          src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli;C%2B%2B+Developer"
         />
       </a>
     </td>
