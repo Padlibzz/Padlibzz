@@ -3,10 +3,11 @@
   justify-content: center;
   align-items: center;
   gap: 20px;
+  flex-wrap: nowrap;
 ">
   <img 
     src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp"
-    width="300"
+    width="260"
   />
 
   <a href="https://github.com/Padlibzz">
