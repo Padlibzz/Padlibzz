@@ -83,6 +83,5 @@
 <hr>
 
 <div align="center">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Meme" />
   <img src="https://raw.githubusercontent.com/padlibzz/padlibzz/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
