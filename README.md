@@ -1,24 +1,15 @@
- <table align="center" border="0">
-
+<table align="center" border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp"width="400"/>
-
-   </td>
-
-   <td width="50%" align="center">
-
-  <a href="https://github.com/Padlibzz">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli;C%2B%2B+%26+Java+Developer"
-        />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWJpM2g5N2s3bG1oaXZ2MXMzaXBmNm91YWFoNmY5N2dyYWRuYm9xOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohs4dsdIExLHeiPFm/giphy.webp" width="400"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Padlibzz">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=420&lines=Hi%2C+I'm+Padli;C%2B%2B+%26+Java+Developer" />
       </a>
     </td>
   </tr>
-
 </table>
-
-
 
 <div align="center">
   <a href="https://www.instagram.com/padlibzz/">
@@ -52,7 +43,7 @@
 </p>
 
 <p align="center" width="80%">
-   I specialize in Linux systems, networking, and C++ development. I enjoy building reliable server infrastructures and developing desktop applications using Qt. Constantly improving my skills in MikroTik, DNS, and web servers through real-world projects.
+  I specialize in Linux systems, networking, and C++ development. I enjoy building reliable server infrastructures and developing desktop applications using Qt. Constantly improving my skills in MikroTik, DNS, and web servers through real-world projects.
 </p>
 
 ---
@@ -67,7 +58,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padlibzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=padlibzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padlibzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
