@@ -41,8 +41,14 @@
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" /><br>C++</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=debian" width="48" /><br>Debian</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" /><br>GitHub</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" /><br>REST API</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=apache" width="48" />
+      <br>Apache
+    </td>
+     <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MikroTik_Logo.png" width="48" />
+      <br>MikroTik
+    </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" /><br>Nginx</td>
   </tr>
 </table>
