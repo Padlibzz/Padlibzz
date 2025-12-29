@@ -1,17 +1,17 @@
 <div align="center">
-<table border="0" width="98%">
+<table border="0" width="100%">
 <tr valign="top">
 <td width="55%">
 
 <h3>>_ TERMINAL_ACCESS: <span style="color:#9ece6a">GRANTED</span></h3>
 
-<pre align="left" style="background-color: #1a1b26; color: #a9b1d6; border-radius: 10px; padding: 10px; font-family: 'Courier New', Courier, monospace; font-size: 13px;">
+<pre align="left" style="background-color: #1a1b26; color: #a9b1d6; border-radius: 10px; padding: 15px; font-family: 'Courier New', Courier, monospace; font-size: 13px; line-height: 1.4;">
 <span style="color:#7aa2f7">user@padli</span>:<span style="color:#bb9af7">~</span>$ ./display_profile.sh
 
 <span style="color:#565f89"># --- USER IDENTIFICATION ---</span>
 <span style="color:#e0af68">Name</span>    : Padli Badzara
 <span style="color:#e0af68">Role</span>    : Network Eng. & SysAdmin
-<span style="color:#e0af68">Focus</span>   : Hardware <-> Software Bridge
+<span style="color:#e0af68">Focus</span>   : Hardware &harr; Software Bridge
 
 <span style="color:#565f89"># --- SYSTEM CAPABILITIES ---</span>
 <span style="color:#9ece6a">✔</span> <b>Network Operations</b>
