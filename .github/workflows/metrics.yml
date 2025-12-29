@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 23 * * *"}] # Update otomatis
+  schedule: [{cron: "0 23 * * *"}] # Update otomatis tiap jam 11 malam
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -13,18 +13,37 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Tampilan Lebar (2 Kolom)
+          # --- KONFIGURASI TAMPILAN MATRIKS / TOKYO NIGHT ---
+          # Ini adalah bagian terpenting agar warnanya nyatu sama README
+          extras_css: |
+            :root {
+              --color-text-primary: #a9b1d6;    /* Teks Utama (Ungu pucat) */
+              --color-text-secondary: #7aa2f7;  /* Teks Sekunder (Biru Cyber) */
+              --color-background: #1a1b26;      /* Background (Sama kayak terminal di README) */
+              --color-calendar-graph-day-bg: #24283b;
+              --color-calendar-graph-day-L1-bg: #414868;
+              --color-calendar-graph-day-L2-bg: #2ac3de;
+              --color-calendar-graph-day-L3-bg: #9ece6a; /* Hijau Matrix */
+              --color-calendar-graph-day-L4-bg: #73daca;
+            }
+            /* Ubah warna Judul menjadi Hijau Matrix */
+            h1, h2, h3 { color: #9ece6a !important; }
+            /* Ubah icon menjadi biru */
+            .icon { fill: #7aa2f7 !important; }
+
+          # Opsi Dasar
           config_display: large
           user: Padlibzz
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
 
-          # Solusi Error "Unexpected Error" (Matikan chart sementara)
+          # Solusi Error & Habits
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: no  # Ubah ke 'yes' nanti jika sudah rajin commit
+          # SAYA UBAH KE YES: Grafik hijau di background gelap terlihat sangat sci-fi
+          plugin_habits_charts: yes 
           plugin_habits_trim: yes
 
           # Bahasa
@@ -34,8 +53,10 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
+          # Memaksa bar warna bahasa menggunakan palet neon (opsional, tapi bagus)
+          plugin_languages_colors: "github, 0:#9ece6a, 1:#7aa2f7, 2:#bb9af7, 3:#e0af68"
 
-          # Kalender
+          # Kalender (Activity Graph)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
