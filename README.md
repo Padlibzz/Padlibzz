@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/padlibzz/padlibzz/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/padlibzz/padlibzz/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
