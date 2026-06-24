@@ -1,98 +1,84 @@
-<h1 align="center">PADLI</h1>
-
-<h3 align="center">
-  Senior C++ & Java Developer | Network Engineer | System Administrator
-</h3>
-
-<p align="center">
-  <a href="https://github.com/Padlibzz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Crafting+robust+Linux+environments;Developing+optimized+low-level+applications;Building+scalable+networking+infrastructures" alt="Typing effect" />
-  </a>
-</p>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/padlibzz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Padlibzz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://gitlab.com/padlibzz"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="https://t.me/padlibzz/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.twitter.com/padlibzz/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.youtube.com/@padlibzz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</div>
+
+# P A D L I &nbsp;&nbsp; B A D Z A R A &nbsp;&nbsp; H A N U R B A R A
+*Insinyur Jaringan • Administrator Sistem • Pengembang Perangkat Lunak*
+<br>
+<code>Bandung, Jawa Barat, Indonesia</code>
+
+<br><br>
+
+<!-- Menggunakan lencana bergaya flat-square berwarna hitam pekat untuk kesan premium dan seragam -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/padlibzz)
+[![GitHub](https://img.shields.io/badge/GitHub-121212?style=flat-square&logo=github&logoColor=white)](https://github.com/Padlibzz)
+[![GitLab](https://img.shields.io/badge/GitLab-121212?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/padlibzz)
+[![Upwork](https://img.shields.io/badge/Upwork-121212?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/)
+
+<br><br>
 
 ---
 
-<table align="center" style="border: none;">
+</div>
+
+<br>
+
+<table width="100%" style="border: none; background-color: transparent;">
   <tr>
-    <td width="60%" valign="top">
-      <h3>About Me</h3>
+    <td width="55%" valign="top" style="padding-right: 20px;">
+      <h3>RINGKASAN TEKNIS</h3>
       <p align="justify">
-        I am a dedicated professional specializing in Linux systems, advanced networking, and C++ development. My expertise lies in architecting reliable server infrastructures and engineering high-performance desktop applications utilizing the Qt framework.
+        Sebagai seorang profesional di bidang infrastruktur TI dan rekayasa perangkat lunak, saya merancang dan mengelola arsitektur peladen berbasis <b>Linux (Debian)</b> yang berfokus pada stabilitas, keamanan jaringan, dan otomatisasi alur kerja.
       </p>
       <p align="justify">
-        I am committed to continuous professional development, actively refining my competencies in MikroTik RouterOS, DNS management, and web server deployment through the execution of complex, real-world projects.
+        Keahlian pengembangan saya mencakup pemrograman <b>C++</b>, <b>Java</b>, dan kerangka kerja <b>Qt</b> untuk aplikasi tingkat produksi. Selain itu, saya aktif memperluas kapabilitas teknis dalam bidang komputasi modern, termasuk <b>Pembelajaran Mesin (Machine Learning)</b> dengan <b>Python</b>, serta perancangan antarmuka visual (UI/UX) yang terstruktur.
       </p>
     </td>
-    <td width="40%" align="center" valign="top">
-       <!-- Mengganti GIF dengan animasi matriks/koding yang lebih subtle dan profesional -->
-      <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1nMWY2c3d5ZWkyaHUwNGxhOW9zZWkzaGNsMzN0eHM0MGwxcWF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Code Animation" style="border-radius: 8px;"/>
+    <td width="45%" valign="top" style="padding-left: 20px;">
+      <h3>KAPABILITAS INTI</h3>
+      <ul style="line-height: 1.8;">
+        <li><b>Infrastruktur & Jaringan:</b> MikroTik RouterOS, Manajemen DNS, Nginx</li>
+        <li><b>Pengembangan Inti:</b> C++, Java, Python, Kerangka Kerja Qt</li>
+        <li><b>Manajemen Repositori & Alat:</b> Git, GitHub Actions, Zotero</li>
+        <li><b>Desain & Riset:</b> Arsitektur Web, Integrasi API, UI/UX (Figma)</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-<h3 align="center">Technical Proficiency</h3>
-
+<h3 align="center">TUMPUKAN TEKNOLOGI</h3>
 <div align="center">
-  <p><strong>Programming & Frameworks</strong></p>
-  <img src="https://skillicons.dev/icons?i=cpp,qt,java,php&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,nginx,mikrotik,mysql,cpp,java,python,qt,git,github,vscode,figma&theme=dark&perline=15" alt="Teknologi" />
 </div>
 
-<br/>
+<br><br><br>
+
+<table width="100%" style="border: none; background-color: transparent;">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>METRIK REPOSITORI</h3>
+      <!-- Menggunakan tema transparan agar menyatu sempurna dengan latar belakang GitHub Anda -->
+      <img src="https://github-readme-stats.vercel.app/api?username=padlibzz&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9e9e9e&icon_color=FFFFFF&bg_color=00000000&disable_animations=true" height="150" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>DISTRIBUSI BAHASA</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padlibzz&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=9e9e9e&bg_color=00000000" height="150" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 <div align="center">
-  <p><strong>Systems, Infrastructure & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=linux,debian,nginx,mysql,git,github,vscode&theme=dark" alt="Infrastructure Tools" />
-  <br><br>
-  <img src="https://img.shields.io/badge/MikroTik_RouterOS-CD201F?style=for-the-badge&logo=mikrotik&logoColor=white" height="30" alt="MikroTik"/>
+  <h3>AKTIVITAS KONTRIBUSI SISTEM</h3>
+  <br>
+  <!-- Menampilkan animasi dengan pencahayaan yang lebih redup agar tidak merusak tema -->
+  <img src="https://raw.githubusercontent.com/padlibzz/padlibzz/output/snake.svg" alt="Otomatisasi Snake" style="opacity: 0.9;" />
 </div>
 
----
-
-<h3 align="center">Performance Metrics</h3>
+<br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padlibzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=A9B1D6" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padlibzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=A9B1D6" height="150" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/padlibzz/padlibzz/output/snake.svg" alt="Contribution Graph Activity" />
-</div>
-
-<br/>
-
-<!-- Jika artikel Medium tidak relevan, hapus bagian ini -->
-<h3 align="center">Recent Publications</h3>
-<div align="center">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/0?theme=dark" alt="Publication 1" height="100" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/1">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/1?theme=dark" alt="Publication 2" height="100" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <p style="font-size: 12px; color: #A9B1D6;">Profile Views</p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=padlibzz.padlibzz&" alt="Visitor Count" />
-</div>
-
-<div align="center">
-   <!-- Footer garis simpel yang elegan -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=5&section=footer" width="100%"/>
+  <hr style="width: 300px; border: 1px solid #333;" />
+  <p style="font-size: 12px; color: #666;"><code>[ STATUS SISTEM: AKTIF ] &nbsp;|&nbsp; [ TERVERIFIKASI ]</code></p>
 </div>
