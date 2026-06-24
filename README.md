@@ -1,95 +1,103 @@
-<div align="center">
-  <!-- Banner GIF Header Lebar untuk mengisi ruang atas secara penuh -->
-  <img src="https://i.pinimg.com/originals/1c/26/34/1c2634fa6468da40db9ba76f8303f260.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px; opacity: 0.8;" alt="Cyber Banner" />
+<div align="left">
+  <h1 style="border-bottom: none; font-weight: 600; margin-bottom: 0;">PADLI BADZARA HANURBARA</h1>
+  <p style="color: #8b949e; font-size: 16px; margin-top: 0;">Systems Engineer &nbsp;|&nbsp; Core Software Developer &nbsp;|&nbsp; Network Administrator</p>
 </div>
+
+<!-- Lencana Terstruktur (Bento-style Flat Square) -->
+<div align="left">
+  <a href="https://linkedin.com/in/padlibzz"><img src="https://img.shields.io/badge/LinkedIn-Profile-121212?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn"/></a>
+  <a href="https://github.com/Padlibzz"><img src="https://img.shields.io/badge/GitHub-Repository-121212?style=flat-square&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub"/></a>
+  <a href="https://gitlab.com/padlibzz"><img src="https://img.shields.io/badge/GitLab-Projects-121212?style=flat-square&logo=gitlab&logoColor=white&labelColor=1A1A1A" alt="GitLab"/></a>
+  <a href="https://t.me/padlibzz/"><img src="https://img.shields.io/badge/Telegram-Contact-121212?style=flat-square&logo=telegram&logoColor=white&labelColor=1A1A1A" alt="Telegram"/></a>
+</div>
+
+<br><br>
+
+<!-- BAGIAN 1: GRID IDENTITAS & KOMPETENSI (Tata Letak 2 Kolom Asimetris) -->
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td width="60%" valign="top" style="border: 1px solid #30363d; padding: 20px;">
+      <h3 style="border-bottom: 1px solid #30363d; color: #c9d1d9; margin-top: 0;">Executive Summary</h3>
+      <p align="justify" style="color: #8b949e; font-size: 14px; line-height: 1.6;">
+        Profesional infrastruktur TI dan rekayasa perangkat lunak dengan spesialisasi dalam arsitektur sistem berbasis Linux, manajemen jaringan tingkat lanjut, dan pengembangan bahasa tingkat rendah (C++ / Java). Berfokus pada perancangan infrastruktur peladen berkinerja tinggi, implementasi keamanan jaringan, serta siklus hidup pengembangan perangkat lunak tingkat produksi.
+      </p>
+    </td>
+    <td width="40%" valign="top" style="border: 1px solid #30363d; padding: 20px;">
+      <h3 style="border-bottom: 1px solid #30363d; color: #c9d1d9; margin-top: 0;">Core Competencies</h3>
+      <ul style="color: #8b949e; font-size: 13.5px; line-height: 1.7; padding-left: 20px;">
+        <li><b>Architecture:</b> Linux OS, Nginx, DNS Routing</li>
+        <li><b>Networking:</b> MikroTik RouterOS, Security</li>
+        <li><b>Development:</b> C++, Java, Qt Framework</li>
+        <li><b>DevOps:</b> Git, GitHub Actions, CI/CD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<h1 align="center" style="font-family: monospace; letter-spacing: 5px; font-weight: 300; color: #E0E0E0;">P A D L I &nbsp;&nbsp; B A D Z A R A</h1>
-<p align="center" style="font-family: monospace; color: #777; letter-spacing: 3px;">SYSTEM ARCHITECT | CORE DEVELOPER</p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/padlibzz"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Padlibzz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://gitlab.com/padlibzz"><img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-</div>
-
-<br><br>
-
-<table width="100%" style="border: none; background-color: transparent;">
-  <tr>
-    <td width="60%" valign="top">
-      <!-- Seni Terminal: Mengganti teks deskripsi dengan "Kode" yang mensimulasikan diri Anda -->
-      <h3 style="color: #888; font-family: monospace;">>_ INIT_SYSTEM_CORE</h3>
-      <pre style="background-color: #0d1117; padding: 20px; border-radius: 8px; color: #c9d1d9; font-family: monospace; font-size: 13.5px; line-height: 1.6; border: 1px solid #30363d; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
-<span style="color: #ff7b72;">#include</span> <span style="color: #a5d6ff;">&lt;architecture.h&gt;</span>
-<span style="color: #ff7b72;">#include</span> <span style="color: #a5d6ff;">&lt;networking.h&gt;</span>
-
-<span style="color: #ff7b72;">int</span> <span style="color: #d2a8ff;">main</span>() {
-    <span style="color: #8b949e;">// Inisialisasi Lingkungan Inti</span>
-    System padli = System::Builder()
-        .setOS(<span style="color: #a5d6ff;">"Linux / Debian"</span>)
-        .setRouter(<span style="color: #a5d6ff;">"MikroTik RouterOS"</span>)
-        .setStack({<span style="color: #a5d6ff;">"C++"</span>, <span style="color: #a5d6ff;">"Java"</span>, <span style="color: #a5d6ff;">"Python"</span>})
-        .build();
-
-    <span style="color: #8b949e;">// Eksekusi Protokol</span>
-    padli.deployInfrastructure();
-    padli.compileApp(<span style="color: #a5d6ff;">"Qt_Framework"</span>);
-
-    <span style="color: #ff7b72;">return</span> <span style="color: #79c0ff;">STATUS_OPTIMAL</span>;
-}</pre>
+<!-- BAGIAN 2: STACK MATRIKS (Tata Letak 3 Kolom Simetris) -->
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td width="33%" align="center" valign="top" style="border: 1px solid #30363d; padding: 15px;">
+      <p style="color: #c9d1d9; font-weight: 600; font-size: 13px; letter-spacing: 1px;">BACKEND & LOGIC</p>
+      <img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark" />
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- GIF Geometris/Network yang mengisi kolom kanan secara artistik -->
-      <img src="https://media.giphy.com/media/26tn33aiTi1jIGsnu/giphy.gif" width="90%" style="border-radius: 8px; opacity: 0.7; mix-blend-mode: screen;" alt="Network Node" />
+    <td width="34%" align="center" valign="top" style="border: 1px solid #30363d; padding: 15px;">
+      <p style="color: #c9d1d9; font-weight: 600; font-size: 13px; letter-spacing: 1px;">SYSTEM & NETWORK</p>
+      <img src="https://skillicons.dev/icons?i=linux,debian,nginx,mikrotik&theme=dark" />
+    </td>
+    <td width="33%" align="center" valign="top" style="border: 1px solid #30363d; padding: 15px;">
+      <p style="color: #c9d1d9; font-weight: 600; font-size: 13px; letter-spacing: 1px;">TOOLS & FRAMEWORK</p>
+      <img src="https://skillicons.dev/icons?i=qt,git,github,vscode,figma&theme=dark" />
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- Menggunakan layout 2 kolom lagi agar penuh dan padat -->
-<table width="100%" style="border: none; background-color: transparent;">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3 style="color: #888; font-family: monospace;">>_ ARSENAL_TEKNIS</h3>
+<!-- BAGIAN 3: METRIK ENGINEERING PUSAT (Analitik Murni) -->
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td width="65%" align="center" valign="top" style="border: 1px solid #30363d; padding: 10px;">
+      <!-- Parameter disesuaikan agar warnanya menyatu persis dengan dark mode GitHub (#0d1117) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=padlibzz&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=00000000&disable_animations=true&count_private=true" width="100%" alt="Stats" />
+    </td>
+    <td width="35%" align="center" valign="top" style="border: 1px solid #30363d; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padlibzz&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" width="100%" alt="Languages" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- BAGIAN 4: GRID PUBLIKASI & WORKFLOW (Integrasi Data) -->
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 20px;">
+      <h3 style="border-bottom: 1px solid #30363d; color: #c9d1d9; margin-top: 0;">Recent Publications / Articles</h3>
+      <div align="center">
+        <!-- Hapus bagian ini jika tidak menulis di Medium, namun ini menambah nilai kompleksitas UI -->
+        <a href="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/0">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/0?theme=dark" height="110" style="margin-bottom: 15px;" />
+        </a>
+        <br>
+        <a href="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/1">
+          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@padlibzz/1?theme=dark" height="110" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 20px;">
+      <h3 style="border-bottom: 1px solid #30363d; color: #c9d1d9; margin-top: 0;">Workflow Automation Activity</h3>
       <br>
-      <!-- Ikon dibuat blok 4x3 agar terlihat padat -->
-      <img src="https://skillicons.dev/icons?i=linux,debian,nginx,mikrotik,cpp,java,python,qt,git,github,vscode,figma&theme=dark&perline=4" style="opacity: 0.9;" />
-    </td>
-    <td width="50%" align="center" valign="top">
-       <h3 style="color: #888; font-family: monospace;">>_ TOPOLOGI_BAHASA</h3>
-       <!-- Grafik Donut mengambil ruang lebih baik daripada grafik batang linier biasa -->
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padlibzz&layout=donut&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=888888&bg_color=00000000" height="190" />
+      <div align="center">
+        <!-- Snake animasi ditempatkan dalam kotak terisolasi agar terlihat seperti dashboard monitoring jaringan -->
+        <img src="https://raw.githubusercontent.com/padlibzz/padlibzz/output/snake.svg" width="100%" style="opacity: 0.8; mix-blend-mode: screen;" alt="Contribution Network" />
+      </div>
+      <br>
+      <p align="center" style="font-family: monospace; font-size: 11px; color: #8b949e;">
+        Automated via GitHub Actions CI/CD
+      </p>
     </td>
   </tr>
 </table>
-
-<br><br>
-
-<div align="center">
-  <h3 style="color: #888; font-family: monospace;">>_ TELEMETRI_SISTEM</h3>
-  <!-- Dibuat lebih lebar agar mendominasi tengah halaman -->
-  <img src="https://github-readme-stats.vercel.app/api?username=padlibzz&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&bg_color=00000000&disable_animations=true" width="70%" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <h3 style="color: #888; font-family: monospace;">>_ AKTIVITAS_JARINGAN</h3>
-  <br>
-  <!-- Animasi snake ditarik memanjang secara horizontal -->
-  <img src="https://raw.githubusercontent.com/padlibzz/padlibzz/output/snake.svg" style="opacity: 0.6; filter: grayscale(100%); width: 100%; max-width: 850px;" alt="Aktivitas" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <!-- Garis penutup animasi -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.gif" width="100%" style="opacity: 0.4;" alt="Divider Line" />
-  <br><br>
-  <p style="font-family: monospace; font-size: 11px; color: #555; letter-spacing: 4px;">
-    S I S T E M &nbsp; D I V E R I F I K A S I
-  </p>
-</div>
