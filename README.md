@@ -3,7 +3,6 @@
   <p style="color: #8b949e; font-size: 16px; margin-top: 0;">Systems Engineer &nbsp;|&nbsp; Core Software Developer &nbsp;|&nbsp; Network Administrator</p>
 </div>
 
-<!-- Lencana Terstruktur -->
 <div align="left">
   <a href="https://linkedin.com/in/padlibzz"><img src="https://img.shields.io/badge/LinkedIn-Profile-121212?style=flat-square&logo=linkedin&logoColor=white&labelColor=1A1A1A" alt="LinkedIn"/></a>
   <a href="https://github.com/Padlibzz"><img src="https://img.shields.io/badge/GitHub-Repository-121212?style=flat-square&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub"/></a>
@@ -13,19 +12,16 @@
 
 <br><br>
 
-<!-- BAGIAN 1: VISUALISASI SISTEM INTI (Menggantikan Teks) -->
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr style="border: none;">
-    <!-- Menggunakan padding 0 agar gambar menempel sempurna dengan garis tepi bento box -->
     <td valign="top" style="border: 1px solid #30363d; padding: 0; background-color: #0d1117;">
-      <img src="https://media.giphy.com/media/aI2hfQOnZAIFGWAAiN/giphy.gif" width="100%" height="180" style="object-fit: cover; display: block; opacity: 0.8; filter: grayscale(20%) brightness(0.9);" alt="System Core Visualization" />
+      <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" width="100%" height="180" style="object-fit: cover; display: block; opacity: 0.85; filter: grayscale(40%) contrast(1.1);" alt="Infrastructure Banner" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- BAGIAN 2: STACK MATRIKS -->
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr style="border: none;">
     <td width="33%" align="center" valign="top" style="border: 1px solid #30363d; padding: 15px;">
@@ -45,7 +41,6 @@
 
 <br>
 
-<!-- BAGIAN 3: METRIK ENGINEERING PUSAT -->
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr style="border: none;">
     <td width="65%" align="center" valign="top" style="border: 1px solid #30363d; padding: 10px;">
@@ -59,7 +54,6 @@
 
 <br>
 
-<!-- BAGIAN 4: GRID PUBLIKASI & WORKFLOW -->
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 20px;">
@@ -78,7 +72,6 @@
       <h3 style="border-bottom: 1px solid #30363d; color: #c9d1d9; margin-top: 0;">Workflow Automation Activity</h3>
       <br>
       <div align="center">
-        <!-- Kotak pemantauan aliran aktivitas repositori -->
         <img src="https://raw.githubusercontent.com/padlibzz/padlibzz/output/snake.svg" width="100%" style="opacity: 0.8; mix-blend-mode: screen;" alt="Contribution Network" />
       </div>
       <br>
